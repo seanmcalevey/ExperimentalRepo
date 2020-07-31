@@ -1,0 +1,3 @@
+[submodule "CustomFunctions"]
+	path = CustomFunctions
+	url = https://github.com/seanmcalevey/CustomFunctions
